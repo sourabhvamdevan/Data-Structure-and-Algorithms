@@ -1,4 +1,4 @@
-# Leetcode
+# Leetcode and GeeksForGeeks Solutions (Data Structures And Algorithms)
 
 
 <!-- STATS_START -->
